@@ -60,7 +60,7 @@ pip install requests
 # Run the app
 python main.py
 
-----
+---
 
 ## 🛠 Built With
 Tkinter
@@ -68,6 +68,6 @@ Tkinter
 Open Trivia Database
  — Trivia API
 
------
+---
 ## 💡 Author
 Created with ❤️ by jay Mondal

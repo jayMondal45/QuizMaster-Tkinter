@@ -62,12 +62,28 @@ python main.py
 
 ---
 
-### 🛠 Built With
-Tkinter
- — GUI framework
-Open Trivia Database
- — Trivia API
+## 📦 Project Structure
+QuizMaster-Tkinter/
+├── main.py
+├──  screenshots/
+│       ├── quiz_settings.png
+│       ├── quiz_categories.png
+│       ├── multiple_question.png
+│       ├── true_false_question.png
+│       ├── feedback_modal.png
+│       └── result_screen.png
+├── README.md
 
 ---
-### 💡 Author
-Created with ❤️ by jay Mondal
+
+## 🛠 Built With
+
+Tkinter
+ — for the graphical user interface
+Open Trivia Database
+ — for quiz question data
+
+---
+
+##💡 Author
+Created with ❤️ by Jay Mondal

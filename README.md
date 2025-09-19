@@ -62,12 +62,12 @@ python main.py
 
 ---
 
-## 🛠 Built With
+### 🛠 Built With
 Tkinter
  — GUI framework
 Open Trivia Database
  — Trivia API
 
 ---
-## 💡 Author
+### 💡 Author
 Created with ❤️ by jay Mondal

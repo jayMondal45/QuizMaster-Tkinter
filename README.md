@@ -60,6 +60,7 @@ pip install requests
 # Run the app
 python main.py
 
+
 ---
 
 ## 📦 Project Structure
